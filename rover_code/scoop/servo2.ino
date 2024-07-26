@@ -1,4 +1,4 @@
-// Attempt 1 at getting servo 1 and 2 to work for scoop arms and servo to work for scoop itself
+// Attempt 1 at getting servo 1 and 2 to work for scoop arms and servo 3 to work for scoop itself
 // we try to only constrain the range of motion for the scoop arms and keep the 3rd servo motor for the scoop full range of motion.
 // adjust step size and delay for speed of the servo motors
 
